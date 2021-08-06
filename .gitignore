@@ -18,12 +18,4 @@
 
 .idea/
 api/
-cmd/
-configs/
-deployments/
-go.mod
-go.sum
-internal/
-pkg/
-scripts/
 yunju-http.log
